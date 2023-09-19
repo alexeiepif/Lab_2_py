@@ -1,7 +1,7 @@
 import numpy as nmp
 print("hello ivt")
 print("it is my program")
-print("Таблица умножения")
+print("Таблица умножения чисел от 1 до 10")
 a = []
 for i in range(1,11):
     b = []
