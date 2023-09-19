@@ -9,3 +9,4 @@ for i in range(1,11):
         b.append(i*j)
     a.append(b)
 print(nmp.matrix(a))
+print("Работу выполнил Епифанов А.А.")
